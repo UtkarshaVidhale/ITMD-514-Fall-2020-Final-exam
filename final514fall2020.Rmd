@@ -503,4 +503,3 @@ sapply(tmp_data_set[,1:7], max) # applies a function (in this case, `max`) to al
 -------- 
 
 # End of final exam, congratulations! 
-
